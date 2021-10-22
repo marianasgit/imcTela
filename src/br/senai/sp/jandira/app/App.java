@@ -1,4 +1,4 @@
-package br.senai.sp.jandira;
+package br.senai.sp.jandira.app;
 
 import br.senai.sp.jandira.ui.Tela;
 
